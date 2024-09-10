@@ -5,6 +5,8 @@ sudo apt-get install libsdl2-dev
 sudo apt-get install libsdl2-2.0-0
 ```
 
+### Skip this step if you already have sdl 2 installed
+### First step will work just fine
 ### How to run sdl 2 on ubuntu
 
 ```bash
